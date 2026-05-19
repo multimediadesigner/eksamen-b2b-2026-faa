@@ -11,5 +11,3 @@ Jeg udviklede dette script for at variere mine eksamensspørgsmål. Hvis du ved,
 * Vis, hvordan du *bruger* UX- eller designprincipper, som: Jacob's Law, Fitt's Law, gestaltpsykologi: CRAP, etc. etc. (perspektiverer)
 * Kunne opgaven være løst på anden vis? (alternativer)
 * Konklusion: *hvad* har du fået ud af at arebjde med xyz?
-
-
